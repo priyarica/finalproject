@@ -60,6 +60,6 @@ Profile
 
 ## Contact 
 If you have any questions or need assistance with the Red-Oscar POS Inventory Management System, please contact us at:
-- Phone Number : 09185336431
+- Phone Number : 09185336431 - Ms. Fria Palallos
 - Email : johnalbert.brillantes@tup.edu.ph
 
