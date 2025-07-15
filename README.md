@@ -57,6 +57,27 @@ You can send daily reports directly to the Admin for easy oversight and record-k
 Profile 
 - Access and modify your personal user profile details.
 - Securely log out from your session at any time.
+  
+## FAQs 
+### General Questions
+#### Q: Can I use the system on any computer?
+A: Yes! Since it's a web application, you just need a web browser and an internet connection. Click the provided link, and you're good to go. 
+
+#### Q: I forgot my password. What should I do?
+Currently, this system does not have a self-service password recovery. Please contact an Admin for assistance with your login credentials.
+
+#### Q: Why can't I log in after registering as a Cashier?
+Your Cashier account needs to be approved by an Admin first. Once an Admin has approved your registration, you'll be able to log in.
+
+### Admin & Cashier Questions
+#### Q: How do I add a new cashier?
+A: As an Admin, you can add new cashier accounts under the "Cashier Management" section. You may approved or declined their registration in this section.
+
+#### Q: Can I add new menu items as a Cashier?
+A: No, Cashiers cannot add new menu items. This feature is exclusive to Admin users. Your role is focused on managing orders and transactions with existing menu items. 
+
+#### Q: As an Admin, can I request reports from my Cashiers?
+A: Yes, as an Admin, you can request reports from your cashiers, and they will receive a notification in their accounts.
 
 ## Contact 
 If you have any questions or need assistance with the Red-Oscar POS Inventory Management System, please contact us at:
