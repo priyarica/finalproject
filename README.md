@@ -36,7 +36,6 @@ As an Admin, you have comprehensive control over the system's management and con
 - Manage Cashier Accounts: Add, update, and oversee cashier user accounts.
   
 
-
 ### Cashier
 #### Cashier Account Registration
 - To register for a Cashier account, you'll need to input your desired username, password, and confirm your password. Please note that your account will only be active and available for login once it has been approved by an Admin.
