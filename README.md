@@ -1,4 +1,4 @@
-# Welcome to Red-Oscar POS Inventory Management System!
+# Welcome to Red-Oscar POS Management System!
 The “Red Oscar POS Management System” is a comprehensive solution designed to streamline inventory tracking and management for Red Oscar Japanese-Filipino Food House. This system provides real-time visibility into stock levels, automates ordering processes, and helps minimize waste, ultimately improving efficiency and profitability. 
 
 ## What Red-Oscar Can Do For You
