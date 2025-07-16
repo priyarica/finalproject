@@ -57,25 +57,21 @@ To get in, simply log in using your username and password on the system's main l
 ### System Dependencies
 These are the basic tools and environments your system needs to run:
 
-1. PHP
-- Version: 7.4 or higher
-- Must be installed on your machine and added to your system’s PATH
+#### 1. PHP
+ - Version: 7.4 or higher
+ - Must be installed on your machine and added to your system’s PATH
+#### 2. MySQL
+ - Used to store user accounts, product details, sales transactions, and POS-related records
+#### 3. Composer
+ - A PHP dependency manager used to install CodeIgniter 4 and required libraries
+#### 4. draw.io 
+ - Entity Relationship Diagrams (ERDs)
+ - System architecture diagrams
+#### 5. Figma
+ - Wireframes
+ - User interface (UI) mockups
 
-2. MySQL
-- Used to store user accounts, product details, sales transactions, and POS-related records
 
-3. Composer
-- A PHP dependency manager used to install CodeIgniter 4 and required libraries
-
-4. draw.io 
-- Entity Relationship Diagrams (ERDs)
-- System architecture diagrams
-
-5. Figma
-- Wireframes
-- User interface (UI) mockups
-
-  
 ## ❓ FAQs
 ### 🧠 General Questions
 Q: Can I use the system on any computer?
