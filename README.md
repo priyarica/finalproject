@@ -67,7 +67,7 @@ These are the basic tools and environments your system needs to run:
 3. Composer
 - A PHP dependency manager used to install CodeIgniter 4 and required libraries
 
-4. draw.io (or diagrams.net)
+4. draw.io 
 - Entity Relationship Diagrams (ERDs)
 - System architecture diagrams
 
