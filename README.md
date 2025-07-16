@@ -98,3 +98,11 @@ If you have any questions or need assistance with the Red-Oscar POS Inventory Ma
 
 - Phone Number: 09185336431 – Ms. Fria Palallos
 - Email: johnalbert.brillantes@tup.edu.ph
+
+### Developers : 
+- John Albert Brillantes
+- Christian Delmo
+- Zander Musa
+- Mark Joseph Opiana
+- Fria Rica Palallos
+- Alexi Villaluna 
