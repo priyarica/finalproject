@@ -4,10 +4,11 @@ The “Red Oscar POS Inventory Management System” is a comprehensive solution 
 ## What Red-Oscar Can Do For You
 - Add and manage products  
 - Monitor stock levels in real time  
-- Generate sales and inventory reports  
-- User login with roles (Admin and Cashier)  
+- View sales and inventory reports  
+- User login (Admin and Cashier)  
 - Track orders and transaction history  
 - Manage returns and add new stock
+- Send Sales Reports for Admin
 
 ## Ready to Start?
 Just click the provided link! It'll open in your web browser, and you'll see the Red-Oscar app appear.
